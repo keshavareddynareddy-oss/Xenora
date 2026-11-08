@@ -1,0 +1,6 @@
+{
+  "name": "GestureMed AI — Interactive 3D Anatomy Explorer",
+  "description": "Interactive 3D human anatomy explorer controlled using real-time webcam hand gestures and AI anatomy guidance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
